@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 #### Something about me
-🌱 I'm a Full-stack software engineer. Mainly Node JS, TS and React.
+🌱 I'm an Information Systems Engineer. 
 
-🔭 Currently working at [@WildAudience](https://wildaudience.com/).
+😄 Mainly Node JS, TS and React.
+
+🔭 Currently working as a Full-stack Software Engineer at [@WildAudience](https://wildaudience.com/).
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/franco-fiorotto-7aa660159/)
 
 
-![Franco Fiorotto's GitHub stats](https://github-readme-stats.vercel.app/api?username=franco-fiorotto&show_icons=true&theme=radical)
+![Franco Fiorotto's GitHub stats](https://github-readme-stats.vercel.app/api?username=franco-fiorotto&show_icons=true&theme=radical&include_all_commits=true&count_private=true)

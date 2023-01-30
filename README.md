@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/franco-fiorotto-7aa660159/)
 
 
-_____
-
-![Franco Fiorotto's GitHub stats](https://github-readme-stats.vercel.app/api?username=franco-fiorotto&show_icons=true&theme=radical&include_all_commits=true&count_private=true)

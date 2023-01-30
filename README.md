@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Something about me
-🌱 I'm an Information Systems Engineer. 
+#### About me
+🌱 Information Systems Engineer.
 
 😄 Mainly Node JS, TS and React.
 
 🔭 Currently working as a Full-stack Software Engineer at [@WildAudience](https://wildaudience.com/).
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/franco-fiorotto-7aa660159/)
+📫 Reach out me on: [Linkedin](https://www.linkedin.com/in/franco-fiorotto-7aa660159/)
 
 

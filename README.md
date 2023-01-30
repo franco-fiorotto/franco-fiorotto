@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Something about me
+#### Something about me
 🌱 I'm a Full-stack software engineer. Mainly Node JS, TS and React.
+
 🔭 Currently working at [@WildAudience](https://wildaudience.com/).
+
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/franco-fiorotto-7aa660159/)
 
 

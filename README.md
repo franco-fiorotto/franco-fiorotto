@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 🔭 Currently working as a Full-stack Software Engineer at [@WildAudience](https://wildaudience.com/).
 
-📫 Reach out to me on: [Linkedin](https://www.linkedin.com/in/franco-fiorotto-7aa660159/)
+📫 Reach out to me on: [Linkedin](https://www.linkedin.com/in/franco-fiorotto/)
 
 

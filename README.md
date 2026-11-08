@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 😄 Mainly Node JS, TS and React.
 
-🔭 Currently working as a Full-stack Software Engineer at [@WildAudience](https://wildaudience.com/).
-
 📫 Reach out to me on: [LinkedIn](https://www.linkedin.com/in/francofiorotto/)
 
 
